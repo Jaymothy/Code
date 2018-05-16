@@ -1,5 +1,5 @@
 <SCRIPT>
-
+cccccccccccccfcfcc
 //if IE4/NS6, apply style
 if (document.all||document.getElementById){
 document.write('<style>.tictac{')
